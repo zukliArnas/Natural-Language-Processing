@@ -1,0 +1,7 @@
+/data
+5_noises.png
+cnn_speech_commands.h5
+processed_data.npz
+spectrogram_noise_40db_0db.png
+training_history.npz
+X_test_y_test_features.npz
